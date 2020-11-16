@@ -55,9 +55,9 @@
 
            例如：
 
-           [百度]((https://www.baidu.com))
+           [百度](https://www.baidu.com)
 
-           [淘宝]()
+           [淘宝](https://www.taobao.com)
 
            等等
 
